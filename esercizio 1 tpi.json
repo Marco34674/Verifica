@@ -1,0 +1,173 @@
+{
+    "istituto": "ITI Galileo Ferraris",
+    "ambienti": [
+      {
+        "nome": "Aula 101",
+        "tipo": "aula",
+        "capacita": 30,
+        "dimensioneClasse": "30-40",
+        "superficie": "45",
+        "numeroClasse": "1A",
+        "attrezzature": ["proiettore", "lavagna interattiva", "computer"],
+        "orari": {
+          "lunedì": "8:00-12:00",
+          "martedì": "8:00-12:00",
+          "mercoledì": "8:00-12:00",
+          "giovedì": "8:00-12:00",
+          "venerdì": "8:00-12:00"
+        }
+      },
+      {
+        "nome": "Laboratorio Informatica",
+        "tipo": "laboratorio",
+        "capacita": 20,
+        "dimensioneClasse": "20-25",
+        "superficie": "50",
+        "numeroClasse": "2B",
+        "attrezzature": ["PC", "stampanti", "scanner", "software di programmazione"],
+        "orari": {
+          "lunedì": "8:00-12:00",
+          "mercoledì": "8:00-12:00",
+          "venerdì": "8:00-12:00"
+        }
+      },
+      {
+        "nome": "Didattica",
+        "tipo": "didattica",
+        "capacita": 50,
+        "dimensioneClasse": "40-50",
+        "superficie": "100",
+        "numeroClasse": "N/A",
+        "attrezzature": ["computer", "zona lettura", "stampe"],
+        "orari": {
+          "lunedì": "8:00-18:00",
+          "martedì": "9:00-18:00",
+          "mercoledì": "8:00-18:00",
+          "giovedì": "8:00-18:00",
+          "venerdì": "8:00-18:00"
+        }
+      },
+      {
+        "nome": "Laboratorio Elettronica",
+        "tipo": "laboratorio",
+        "capacita": 15,
+        "dimensioneClasse": "15-20",
+        "superficie": "40",
+        "numeroClasse": "3C",
+        "attrezzature": ["strumenti di misura", "circuiti elettronici", "saldatori"],
+        "orari": {
+          "lunedì": "8:00-12:00",
+          "martedì": "8:00-12:00",
+          "mercoledì": "8:00-12:00",
+          "giovedì": "8:00-12:00",
+          "venerdì": "8:00-12:00"
+        }
+      },
+      {
+        "nome": "Palestra",
+        "tipo": "palestra",
+        "capacita": 50,
+        "dimensioneClasse": "30-50",
+        "superficie": "300",
+        "numeroClasse": "N/A",
+        "attrezzature": ["attrezzi ginnici", "spogliatoi", "pavimento antiscivolo"],
+        "orari": {
+          "lunedì": "10:00-12:00",
+          "martedì": "8:00-12:00",
+          "mercoledì": "10:00-12:00",
+          "giovedì": "10:00-12:00",
+          "venerdì": "8:00-12:00",
+          "sabato": "10:00-12:00"
+        }
+      },
+      {
+        "nome": "Laboratorio Telecomunicazioni",
+        "tipo": "laboratorio",
+        "capacita": 15,
+        "dimensioneClasse": "15-20",
+        "superficie": "50",
+        "numeroClasse": "4D",
+        "attrezzature": ["moduli di telecomunicazione", "strumenti di rete", "software di simulazione"],
+        "orari": {
+          "lunedì": "8:00-12:00",
+          "mercoledì": "8:00-12:00",
+          "venerdì": "8:00-12:00"
+        }
+      },
+      {
+        "nome": "Aula 102",
+        "tipo": "aula",
+        "capacita": 30,
+        "dimensioneClasse": "30-40",
+        "superficie": "45",
+        "numeroClasse": "1B",
+        "attrezzature": ["proiettore", "lavagna tradizionale"],
+        "orari": {
+          "lunedì": "8:00-12:00",
+          "martedì": "8:00-12:00",
+          "mercoledì": "8:00-12:00",
+          "giovedì": "8:00-12:00",
+          "venerdì": "8:00-12:00"
+        }
+      },
+      {
+        "nome": "Aula 103",
+        "tipo": "aula",
+        "capacita": 30,
+        "dimensioneClasse": "30-40",
+        "superficie": "45",
+        "numeroClasse": "2A",
+        "attrezzature": ["computer", "lavagna interattiva"],
+        "orari": {
+          "lunedì": "8:00-12:00",
+          "martedì": "8:00-12:00",
+          "mercoledì": "8:00-12:00",
+          "giovedì": "8:00-12:00",
+          "venerdì": "8:00-12:00"
+        }
+      },
+      {
+        "nome": "Laboratorio Fisica",
+        "tipo": "laboratorio",
+        "capacita": 15,
+        "dimensioneClasse": "15-20",
+        "superficie": "40",
+        "numeroClasse": "3D",
+        "attrezzature": ["strumenti di laboratorio", "esperimenti scientifici"],
+        "orari": {
+          "lunedì": "8:00-12:00",
+          "mercoledì": "8:00-12:00"
+        }
+      },
+      {
+        "nome": "Laboratorio Chimica",
+        "tipo": "laboratorio",
+        "capacita": 15,
+        "dimensioneClasse": "15-20",
+        "superficie": "40",
+        "numeroClasse": "4A",
+        "attrezzature": ["provette", "reagenti", "strumenti di misura"],
+        "orari": {
+          "martedì": "8:00-12:00",
+          "giovedì": "8:00-12:00"
+        }
+      },
+      {
+        "nome": "Aula 104",
+        "tipo": "aula",
+        "capacita": 30,
+        "dimensioneClasse": "30-40",
+        "superficie": "45",
+        "numeroClasse": "2C",
+        "attrezzature": ["proiettore", "lavagna interattiva", "computer"],
+        "orari": {
+          "lunedì": "8:00-12:00",
+          "martedì": "8:00-12:00",
+          "mercoledì": "8:00-12:00",
+          "giovedì": "8:00-12:00",
+          "venerdì": "8:00-12:00"
+        }
+      }
+    ]
+  }
+  
